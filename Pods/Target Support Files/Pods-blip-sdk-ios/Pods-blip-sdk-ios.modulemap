@@ -1,0 +1,6 @@
+framework module Pods_blip_sdk_ios {
+  umbrella header "Pods-blip-sdk-ios-umbrella.h"
+
+  export *
+  module * { export * }
+}
